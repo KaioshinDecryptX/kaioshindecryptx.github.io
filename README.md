@@ -2,7 +2,7 @@
 
 ## **Introduction + Description**
 
-Hello, my name is Shawn Wilson and this repository is used to show off various websites I have created using HTML and CSS.
+Hello, my name is Shawn Wilson and this repository is used to show off a few websites I have created using HTML and CSS.
 I had worked on the projects seen in this repository using NotePad and viewing them on Microsoft Edge. Because Edge is not
 the primary browser of choice, I had to see if the layout would smoothly transition to, and appear the same on, Chrome and
 Firefox. Because the layout was not the same between Edge and Chrome + Firefox, I had to tweak my code. I also had to learn
