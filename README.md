@@ -15,10 +15,11 @@ For each of the projects, the link is as follows:
 * https://kaioshindecryptx.github.io/avatar-aang/
 * https://kaioshindecryptx.github.io/cerberus-apparel/
 * https://kaioshindecryptx.github.io/single-price-grid/
+* https://kaioshindecryptx.github.io/cerberus-sign-up/
 
 ## **Future Plans**
 
-I plan on adding more project designs as time passes as I am just having fun and want to code in HTML and CSS.
+I plan on adding more project designs as time passes as I am just having fun and want to code in HTML and CSS. JavaScript will be added overtime.
 
 ## **Reference**
 
